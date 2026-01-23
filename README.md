@@ -3,7 +3,7 @@ Badal Singh
 
 I have completed languages like C/C++, SQL, Python<br> 
 
-I have completed data visualisation using Matplotlib, Seaborn, and plotly.
+I have completed data visualisation using Matplotlib, Seaborn, Plotly, and tablu.
 
 I have done 3 Deep Learning projects, like Object  image detection, Cancer detection, and  plant Leaf Detection <br>
 
